@@ -12,7 +12,7 @@ HTML/CSS-сайта интернет-магазина или каталога т
 
 ## Ссылка на опубликованный проект
 
-GitHub Pages: https://username.github.io/kr3-responsive-shop/
+GitHub Pages: [https://username.github.io/kr3-responsive-shop/](https://artemka38.github.io/kr3-responsive-shop/)
 
 ## Как посмотреть проект
 
